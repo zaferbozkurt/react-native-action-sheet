@@ -1,0 +1,30 @@
+{
+  "name": "react-native-action-sheet",
+  "version": "1.0.0",
+  "description": "A cross-platform actionsheet for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaferbozkurt/react-native-action-sheet.git"
+  },
+  "keywords": [
+    "actionsheet",
+    "action sheet",
+    "react-native",
+    "react-native-action-sheet",
+    "react-native-actionsheet",
+    "custom-action-sheet"
+  ],
+  "author": "zaferbozkurt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaferbozkurt/react-native-action-sheet/issues"
+  },
+  "homepage": "https://github.com/zaferbozkurt/react-native-action-sheet#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
